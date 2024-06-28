@@ -75,7 +75,11 @@ export default function Footer() {
               <IconBrandYoutube stroke={1.5} size={28} className="ml-1" />
             </li>
           </Link>
-          <Link href="" target="_blank" rel="external">
+          <Link
+            href="mailto:info@hudebnityden.cz"
+            target="_blank"
+            rel="external"
+          >
             <li className="flex items-center my-1">
               info@hudebnityden.cz
               <IconMail stroke={1.5} size={28} className="ml-1" />
