@@ -9,7 +9,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <footer className="w-full flex flex-col items-center justify-between">
-      <div className="w-[90vw] max-w-[1000px] flex flex-row items-stretch justify-between">
+      <div className="w-[90vw] max-w-[1400px] flex flex-row items-stretch justify-between">
         <ul className="flex flex-col items-start">
           <Link
             href="https://youtube.com/playlist?list=PL1UM1smQzl-6XJaLq9OYh36LoWKOU1XAE"
