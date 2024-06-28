@@ -87,7 +87,7 @@ export default function Footer() {
           </Link>
         </ul>
       </div>
-      <p className="mb-8 mt-4">&copy;2024 Hudební týden na Vesmíru</p>
+      <p className="mb-8 mt-4">&copy;2024 Hudební týden</p>
     </footer>
   );
 }
