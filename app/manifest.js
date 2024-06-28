@@ -8,7 +8,7 @@ export default function manifest() {
     start_url: "/",
     display: "standalone",
     orientation: "portrait-primary",
-    background_color: "#fff",
+    background_color: "#161616",
     scope: "/",
     lang: "cs",
     theme_color: meta.themeColor,
