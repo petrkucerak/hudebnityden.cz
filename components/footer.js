@@ -50,7 +50,7 @@ export default function Footer() {
             target="_blank"
             rel="external"
           >
-            <li className="flex items-center my-1">
+            <li className="flex items-center">
               dczm_vesmir
               <IconBrandInstagram stroke={1.5} size={28} className="ml-1" />
             </li>
@@ -60,7 +60,7 @@ export default function Footer() {
             target="_blank"
             rel="external"
           >
-            <li className="flex items-center my-1">
+            <li className="flex items-center">
               HudebniTyden
               <IconBrandFacebook stroke={1.5} size={28} className="ml-1" />
             </li>
@@ -70,7 +70,7 @@ export default function Footer() {
             target="_blank"
             rel="external"
           >
-            <li className="flex items-center my-1">
+            <li className="flex items-center">
               dczmvesmir6084
               <IconBrandYoutube stroke={1.5} size={28} className="ml-1" />
             </li>
@@ -80,7 +80,7 @@ export default function Footer() {
             target="_blank"
             rel="external"
           >
-            <li className="flex items-center my-1">
+            <li className="flex items-center">
               info@hudebnityden.cz
               <IconMail stroke={1.5} size={28} className="ml-1" />
             </li>
